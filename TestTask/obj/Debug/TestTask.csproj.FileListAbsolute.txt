@@ -1,0 +1,6 @@
+e:\programms\visualstudio\VC#\projects\TestTask\TestTask\bin\Debug\TestTask.exe.config
+e:\programms\visualstudio\VC#\projects\TestTask\TestTask\bin\Debug\TestTask.exe
+e:\programms\visualstudio\VC#\projects\TestTask\TestTask\bin\Debug\TestTask.pdb
+e:\programms\visualstudio\VC#\projects\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+e:\programms\visualstudio\VC#\projects\TestTask\TestTask\obj\Debug\TestTask.exe
+e:\programms\visualstudio\VC#\projects\TestTask\TestTask\obj\Debug\TestTask.pdb
